@@ -109,7 +109,7 @@ You can automate the execution of these scripts using `cron`:
      0 20 * * * /path/to/stop_instance.sh
      ```
 
-3. Save and exit the editor.
+3. Save and exit the editor
 
 ### 3. Test the Scripts
 
