@@ -97,13 +97,13 @@ You can automate the execution of these scripts using `cron`:
 
 2. Add the following lines to schedule the scripts:
    
-   - Start the instance at 9:00 AM:
+ - Start the instance at 9:00 AM:
 
      ```bash
      0 9 * * * /path/to/start_instance.sh
      ```
 
-   - Stop the instance at 8:00 PM:
+ - Stop the instance at 8:00 PM:
 
      ```bash
      0 20 * * * /path/to/stop_instance.sh
